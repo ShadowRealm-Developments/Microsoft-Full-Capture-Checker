@@ -1,0 +1,32 @@
+⚠️ Terms & Regulations
+
+• Redistributing, sharing, or publicly releasing this software is strictly prohibited
+• Modifying, reverse engineering, decompiling, or tampering with the software is not allowed
+• Unauthorized access attempts, bypassing, or exploitation of any security systems is forbidden
+• Access to the software may be revoked, suspended, or terminated at any time without notice
+• Users are fully responsible for all actions performed using the software
+• Any misuse, abuse, spam, or malicious activity will result in permanent removal
+• Attempting to bypass rate limits, restrictions, or security measures is strictly forbidden
+• Interfering with backend systems, APIs, or connected services is not permitted
+• Debugging, packet inspection, or traffic analysis attempts are prohibited
+• Use of cracked, leaked, or modified versions will result in immediate blacklist
+• Unauthorized distribution of licenses, keys, or access tokens is strictly forbidden
+• Sharing access with third parties is not allowed under any circumstances
+• Selling, renting, or trading access to the software is strictly prohibited
+• Any attempt to exploit vulnerabilities must be reported immediately, not abused
+• Automated abuse, botting, or spam behavior will lead to permanent ban
+• Circumventing authentication, verification, or licensing systems is forbidden
+• Attempting to scrape, extract, or harvest internal data is strictly prohibited
+• Any form of injection, hooking, or runtime manipulation is not allowed
+• Users must comply with all provided rules, policies, and future updates
+• The developer reserves the right to modify rules, features, or access at any time
+• Continued use of the software implies full acceptance of all terms and conditions
+• Violation of any single rule may result in immediate and irreversible termination
+• No guarantees are provided regarding uptime, stability, or continued availability
+
+💬 Support & Community
+
+💬 Support Server: https://discord.gg/EwF5m79hFq
+
+👨‍💻 Developer: dark_knight038902
+🌑 Brand: Shadow Realm Systems
